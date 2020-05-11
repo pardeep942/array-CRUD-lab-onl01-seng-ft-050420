@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [2,4,6,7]
+  ["dog", "lion", "fish", "monkey"]
   
 end
 
