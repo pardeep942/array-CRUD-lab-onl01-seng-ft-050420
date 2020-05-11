@@ -26,8 +26,8 @@ def remove_element_from_start_of_array(array)
   array.shift
 end
 
-def retrieve_element_from_index(array, index_number)
-  return array[index_number]
+def retrieve_element_from_ndex(array, index_number)
+  ireturn array[index_number]
 end
 
 def retrieve_first_element_from_array(array)
